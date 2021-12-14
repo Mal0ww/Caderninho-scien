@@ -16,7 +16,7 @@ A lista foi pensada para adicionar as tarefas semanais, possibilitando adicionar
 foi pensada para atribuição de atividades já concluidas. Como as atividades são adicionadas por ordem de conclusão para terem seus valores somados, cada atividade segue uma ordem de conclusão, sendo as concluidas primeiro, tendo seus valores somados primeiro, obedecendo a propriedade *First In, First Out* (FIFO). 
 
 - *Stack*: 
-É responsável por "empilhar" o Título da atividade e um nível de dificuldade.
+É responsável por "empilhar" de forma separada o Título/Horário da atividade e um nível de dificuldade.
 
 ## 4. Manual do Usuário
 ### 4.1 Tela inicial
@@ -31,3 +31,11 @@ foi pensada para atribuição de atividades já concluidas. Como as atividades s
 4. Botão para adicionar tarefas. 
 5. Aba de pontuações e recompensas. 
 6. Botão para conclusão de tarefas.
+
+### 4.3 Menu lateral.
+![menu lateral](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20para%20concluir.jpg?raw=true)
+
+
+### 4.4 Adicionar tarefas.
+![adição de tarefas](https://user-images.githubusercontent.com/85904207/145924716-bac5129d-11e5-468d-b7cb-f453d771aaab.png)
+
