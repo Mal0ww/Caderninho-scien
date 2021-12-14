@@ -74,7 +74,7 @@ Para concluir uma ou mais atividade(s) basta:
 1. Apertar o botão de concluir atividade.
 2. Selecionar as atividades que deseja concluir.
 
-Para ver a(s) atividade(s) basta:
+Para ver a(s) atividade(s) concluida(s) basta:
 1. Passar o *mouse* no menu lateral.
 2. Apertar o botão Atividades concluidas.
 
