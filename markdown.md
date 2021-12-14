@@ -26,15 +26,19 @@ foi pensada para atribuição de atividades já concluidas. Como as atividades s
 ![botões do manual](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Tela%20Principal%20manual.jpg?raw=true)
 
 1. Menu Lateral.
-2. Avançar/Retroceder dias da semana.
-3. Campo para especificar tarefas.
-4. Botão para adicionar tarefas. 
-5. Aba de pontuações e recompensas. 
-6. Botão para conclusão de tarefas.
+3. Avançar/Retroceder dias da semana.
+4. Campo para especificar tarefas.
+5. Botão para adicionar tarefas. 
+6. Aba de pontuações e recompensas. 
+7. Botão para conclusão de tarefas.
 
 ### 4.3 Menu lateral.
 ![menu lateral](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20para%20concluir.jpg?raw=true)
-
+1. Menu Lateral. <br/>
+  1.1 Botão de Home. <br/>
+  1.2 Botão de atividades concluidas.<br/>
+  1.3 Informações sobre os integrantes. <br/>
+  1.4 Informações sobre a aplicação.
 
 ### 4.4 Adicionar tarefas.
 ![adição de tarefas](https://user-images.githubusercontent.com/85904207/145924716-bac5129d-11e5-468d-b7cb-f453d771aaab.png)
