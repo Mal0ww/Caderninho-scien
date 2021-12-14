@@ -1,6 +1,6 @@
 # Caderninho Scien
 ## 1. alunos:
-- Dannilo de Souza Costa.
+- ~~Dannilo de Souza Costa.~~
 - Joaquim Luna Menezes Neto.
 - Michael Hitler Batista do Nascimento.
 - Victor Matos dos Santos Lima.
@@ -97,3 +97,12 @@ Para Ver a pontuação diária e semanal basta:
 |![Integrantes](https://user-images.githubusercontent.com/85904207/145935369-d153d3bf-34b4-491b-9c6b-27b139e37942.png)|
 |:--:|
 | *Integrantes que contribuíram para o andamento do projeto, desde códigos e ideias, até apoio moral e piadas para descontração e manutenção da saúde mental do grupo.* |
+
+### 4.10 Informaçoes sobre a aplicação.
+|![info](https://github.com/miHITLER/Caderninho-scien/blob/main/prints/tela%20de%20info.jpeg?raw=true)|
+|:--:|
+| *Tela de informações* |
+
+Para Ver as informações sobre a aplicação basta:
+1. Passar o *mouse* para abrir a janela de pontuações.
+2. Usar o botão de informações. 
