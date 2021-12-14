@@ -75,7 +75,7 @@ Para concluir uma ou mais atividade(s):
 2. Selecionar as atividades que deseja concluir.
 
 Para ver a(s) atividade(s) concluída(s):
-1. Passar o *mouse* no menu lateral.
+1. Passe o *mouse* no menu lateral.
 2. Aperte o botão Atividades concluídas.
 
 ### 4.7 Pontuação.
@@ -83,15 +83,15 @@ Para ver a(s) atividade(s) concluída(s):
 |:--:|
 
 Para ver a pontuação diária e semanal:
-1. Passar o *mouse* para abrir a janela de pontuações.
+1. Passe o *mouse* para abrir a janela de pontuações.
 
 ### 4.8 Recompensas.
 |![atividades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Ar%C3%A9a%20de%20recompensas.jpeg?raw=true)|
 |:--:|
 
 Para ver a pontuação diária e semanal:
-1. Passar o *mouse* para abrir a janela de pontuações.
-2. Usar o botão de recompensas. 
+1. Passe o *mouse* para abrir a janela de pontuações.
+2. Aperte o botão de recompensas. 
 
 ### 4.9 Integrantes.
 |![Integrantes](https://user-images.githubusercontent.com/85904207/145935369-d153d3bf-34b4-491b-9c6b-27b139e37942.png)|
@@ -99,8 +99,8 @@ Para ver a pontuação diária e semanal:
 | *Integrantes que contribuíram para o andamento do projeto, desde códigos e ideias, até apoio moral e piadas para descontração e manutenção da saúde mental do grupo.* |
 
 Para ver o nome dos integrantes:
-1. Passar o *mouse* para abrir a janela de pontuações.
-2. Usar o botão de recompensas. 
+1. Passe o *mouse* para abrir a janela de pontuações.
+2. Aperte o botão de recompensas. 
 
 ### 4.10 Informações sobre a aplicação.
 |![info](https://github.com/miHITLER/Caderninho-scien/blob/main/prints/tela%20de%20info.jpeg?raw=true)|
@@ -108,7 +108,7 @@ Para ver o nome dos integrantes:
 | *Tela de informações* |
 
 Para ver as informações sobre a aplicação:
-1. Passar o *mouse* para abrir a janela de pontuações.
-2. Usar o botão de informações. 
+1. Passe o *mouse* para abrir a janela de pontuações.
+2. Aperte o botão de informações. 
 
 
