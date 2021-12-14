@@ -79,7 +79,7 @@ Para ver a(s) atividade(s) basta:
 2. Apertar o botão Atividades concluidas.
 
 ### 4.7 Pontuação.
-|![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Aba%20de%20pontua%C3%A7%C3%B5es.jpeg?raw=true)|
+|![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/pontos.jpeg?raw=true)|
 |:--:|
 
 Para Ver a pontuação diária e semanal basta:
