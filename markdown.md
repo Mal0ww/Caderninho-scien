@@ -60,7 +60,7 @@ foi pensada para atribuição de atividades já concluídas. Como as atividades 
 
 Para adicionar uma ou mais atividade(s):
 1. Avançar/Retroceder até o dia em que a atividade deve ser adicionada.
-2. Apertar o botão de adicionar atividade.
+2. Aperte o botão de adicionar atividade.
 3. Adicionar um Título/Horário.
 4. Especificar a atividade.
 5. Especificar o nível de dificuldade. 
@@ -71,12 +71,12 @@ Para adicionar uma ou mais atividade(s):
 | *Tela de atividades concluídas*|
 
 Para concluir uma ou mais atividade(s):
-1. Apertar o botão de concluir atividade.
+1. Aperte o botão de concluir atividade.
 2. Selecionar as atividades que deseja concluir.
 
 Para ver a(s) atividade(s) concluída(s):
 1. Passar o *mouse* no menu lateral.
-2. Apertar o botão Atividades concluídas.
+2. Aperte o botão Atividades concluídas.
 
 ### 4.7 Pontuação.
 |![atividades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/pontos.jpeg?raw=true)|
@@ -102,7 +102,7 @@ Para ver o nome dos integrantes:
 1. Passar o *mouse* para abrir a janela de pontuações.
 2. Usar o botão de recompensas. 
 
-### 4.10 Informaçoes sobre a aplicação.
+### 4.10 Informações sobre a aplicação.
 |![info](https://github.com/miHITLER/Caderninho-scien/blob/main/prints/tela%20de%20info.jpeg?raw=true)|
 |:--:|
 | *Tela de informações* |
@@ -110,3 +110,5 @@ Para ver o nome dos integrantes:
 Para ver as informações sobre a aplicação:
 1. Passar o *mouse* para abrir a janela de pontuações.
 2. Usar o botão de informações. 
+
+
