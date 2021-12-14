@@ -58,4 +58,10 @@ Para adicionar uma ou mais atividade(s) basta:
 ### 4.5 Concluir atividade.
 |![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20concluidas.jpeg?raw=true)|
 |:--:|
+Para concluir uma ou mais atividade(s) basta:
+1. Apertar o botão de concluir atividade.
+2. Selecionar as atividades que deseja concluir.
 
+Para ver a(s) atividade(s) basta:
+1. Usar o menu lateral.
+2. Apertar o botão Atividades concluidas.
