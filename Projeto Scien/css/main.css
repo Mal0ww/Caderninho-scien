@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padDING: 0;
+}
+
+body{
+    overflow: hidden;
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    /* background-color: #574f4f; */
+    background-image: linear-gradient(45deg, #131112, #222427, #212630, #1c1c2e);
+    background-size: 300% 300%;
+    animation: colors 20s ease infinite;
+}
+
+@keyframes colors{
+    0%{
+        background-position: 0% 50%;
+    }
+
+    50%{
+        background-position: 100% 50%;
+    }
+
+    100%{
+        background-position: 0% 50%;
+    }
+}

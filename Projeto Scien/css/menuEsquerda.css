@@ -1,0 +1,102 @@
+#menuEsquerda{
+    width: 0%;
+    height: 625px;
+    float: left;
+    transition: 0.8s;
+}
+
+#iconeMenu{
+    padding: 35px 0 0 30px;
+    cursor: pointer;
+}
+
+#conteudoMenuEsquerda{
+    font-size: 11pt;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 557px;
+    padding: 10px 0 0 0;
+    opacity: 0;
+    transition: 0.8s;
+    color: white
+}
+
+#conteudoMenuEsquerda a{
+    text-decoration: none;
+    color: white;
+}
+
+#menuEsquerda:hover{
+    border-radius: 0 60px 60px 0;
+    width: 16%;
+    background-color: #48494b;
+}
+
+#MENUCENTRAL{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 55px;
+    width: 90%;
+    transition: 0.8s;
+}
+
+#CONCLUIDAS{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 55px;
+    width: 90%;
+    transition: 0.8s;
+}
+
+#MANUALUSUARIO{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 55px;
+    width: 90%;
+    transition: 0.8s;
+}
+
+#INTEGRANTES{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 55px;
+    width: 90%;
+    transition: 0.8s;
+}
+
+#INFO{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 55px;
+    width: 90%;
+    transition: 0.8s;
+}
+
+#MENUCENTRAL:hover{
+    border-radius: 20px;
+    background-color: #252627;
+}
+#CONCLUIDAS:hover{
+    border-radius: 20px;
+    background-color: #252627;
+}
+#MANUALUSUARIO:hover{
+    border-radius: 20px;
+    background-color: #252627;
+}
+#INTEGRANTES:hover{
+    border-radius: 20px;
+    background-color: #252627;
+}
+#INFO:hover{
+    border-radius: 20px;
+    background-color: #252627;
+}

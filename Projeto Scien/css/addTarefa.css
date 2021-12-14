@@ -1,0 +1,292 @@
+#div1{
+    min-height: 50px;
+    width: 100%;
+}
+#div2{
+    
+    min-height: 50px;
+    width: 100%;
+}
+#div3{
+    min-height: 50px;
+    width: 100%;
+}
+#div4{
+    min-height: 50px;
+    width: 100%;
+}
+#div5{
+    min-height: 50px;
+    width: 100%;
+}
+#div6{
+    min-height: 50px;
+    width: 100%;
+}
+
+
+#contDiv1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 65%;
+}
+#contDiv2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 65%;
+}
+#contDiv3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 65%;
+}
+#contDiv4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 65%;
+}
+#contDiv5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 65%;
+}
+#contDiv6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 65%;
+}
+
+
+#receber1{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#receber2{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#receber3{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#receber4{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#receber5{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#receber6{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+
+
+#check1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    height: 50px;
+    width: 15%;
+}
+#check2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    height: 50px;
+    width: 15%;
+}
+#check3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    height: 50px;
+    width: 15%;
+}
+#check4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    height: 50px;
+    width: 15%;
+}
+#check5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    height: 50px;
+    width: 15%;
+}
+#check6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    height: 50px;
+    width: 15%;
+}
+
+
+#level1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    height: 50px;
+    width: 20%;
+}
+#level2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    height: 50px;
+    width: 20%;
+}
+#level3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    height: 50px;
+    width: 20%;
+}
+#level4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    height: 50px;
+    width: 20%;
+}
+#level5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    height: 50px;
+    width: 20%;
+}
+#level6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    height: 50px;
+    width: 20%;
+}
+
+#selectLevel1{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#selectLevel2{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#selectLevel3{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#selectLevel4{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#selectLevel5{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}
+#selectLevel6{
+    color: white;
+    font-size: 17pt;
+    border: 0;
+    height: 30px;
+    width: 100%;
+    background: none;
+    text-align: center;
+    outline: 0;
+}

@@ -1,0 +1,87 @@
+#menuCentral{
+    width: 68%;
+    height: 625px;
+    padding: 0 200px 0 300px;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 79%;
+    font-size: 35pt;
+    color: white;
+}
+
+#iconeAdd{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 58px;
+    width: 79%;
+}
+
+#dia{
+    padding: 10px 0 0 0;
+    font-size: 19pt;
+    width: 76%;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#diaAtual{
+    text-align: center;
+    width: 35%;
+}
+
+#diaAnterior{
+    cursor: pointer;
+}
+
+#diaPosterior{
+    cursor: pointer;
+}
+
+
+#conteudo{
+    width: 79%;
+    height: 399px;
+    color: white;
+    font-size: 17pt;
+    font-family: arial;
+}
+
+#addTarefa:hover{
+    transform: rotate(200grad);
+    transition: 0.8s;
+    cursor: pointer;
+}
+
+
+#concluir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 96%;
+}
+
+#concluirTarefas{
+    border: 0;
+    font-size: 12pt;
+    cursor: pointer;
+    color: white;
+    background: none;
+    border-radius: 25px;
+    transition: 1s;
+    height: 35px;
+    width: 30%;
+}
+
+#concluirTarefas:hover{
+    background-color: #48494b;
+}

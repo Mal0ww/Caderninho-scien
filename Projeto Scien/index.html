@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <link rel="stylesheet" type="text/css" href="./css/menuCentral.css">
+    <link rel="stylesheet" type="text/css" href="./css/menuEsquerda.css">
+    <link rel="stylesheet" type="text/css" href="./css/menuDireita.css">
+    <link rel="stylesheet" type="text/css" href="./css/addTarefa.css">
+
+    <script src="./js/menuEsquerda.js"></script>
+    <script src="./js/menuDireita.js"></script>
+    <script type="module" src="./js/main.js"></script>
+    <script type="module" src="./js/addTarefa.js"></script>
+    <script type="module" src="./js/alterarTarefa.js"></script>    
+    <script type="module" src="./js/trocarDia.js"></script>
+    <script type="module" src="./js/Dia.js"></script>
+    <script type="module" src="./js/inserirDia.js"></script>
+    <script type="module" src="./js/gerarDias.js"></script>
+    <script type="module" src="./js/linkarTarefas.js"></script>
+    <script type="module" src="./js/concluirTarefas.js"></script>
+    <script type="module" src="./js/alterarLevel.js"></script>
+    <script type="module" src="./js/converter.js"></script>
+    <script type="module" src="./js/loadPontuacao.js"></script>
+    <script type="module" src="./js/calculaPontuacao.js"></script>
+    <script type="module" src="./js/recompensas.js"></script>
+    <script type="module" src="./js/reestruturarMenuCentral.js"></script>
+    <script type="module" src="./js/atividadesConcluidas.js"></script>
+    <script type="module" src="./js/integrantes.js"></script>
+    <script type="module" src="./js/info.js"></script>
+
+    <title>SCIEN</title>
+</head>
+<body>
+
+    <div id="menuEsquerda">
+        <img id="iconeMenu" src="./img/ícone.png" onmouseover="alterarMenuEsquerda(menuEsquerda)">
+        <div id="conteudoMenuEsquerda">
+            <a href="#" id="MENUCENTRAL">HOME</a>
+            <a href="#" id="CONCLUIDAS">ATIVIDADES CONCLUÍDAS</a>
+            <a href="#" id="INTEGRANTES">INTEGRANTES</a>
+            <a href="#" id="INFO">INFO</a>
+        </div>
+    </div>
+
+    <div id="menuDireita">
+        <img id="trofeu" src="./img/ícone_trofeu.png" onmouseover="alterarMenuDireita(menuDireita)">
+        <div id="conteudoMenuDireita">
+            <div id="pontuacaoDiaria"></div>
+            <div id="ptsDiario"></div>
+            <div id="pontuacaoSemanal"></div>
+            <div id="ptsSemanal"></div>
+            <a href="#" id="visualizarRecompensas">RECOMPENSAS</a>
+        </div>
+    </div>
+
+    <div id="menuCentral">
+        <div id="logo">CADERNINHO SCIEN</div>
+        <div id="iconeAdd">
+            <img id="addTarefa" src="./img/ícone_add_tarefa - v2.png">
+        </div>
+        <div id="dia">
+            <div id="diaAnterior">-</div>
+            <div id="diaAtual"></div>
+            <div id="diaPosterior">+</div>
+        </div>
+        <div id="conteudo">
+
+            <div id="div1">
+                <div id="check1" onclick="confirmarTarefa(check1)"></div>
+                <div id="level1"></div>
+                <div id="contDiv1"></div>
+            </div>
+
+            <div id="div2">
+                <div id="check2" onclick="confirmarTarefa(check2)"></div>
+                <div id="level2"></div>
+                <div id="contDiv2"></div>
+            </div>
+
+            <div id="div3">
+                <div id="check3" onclick="confirmarTarefa(check3)"></div>
+                <div id="level3"></div>
+                <div id="contDiv3"></div>
+            </div>
+
+            <div id="div4">
+                <div id="check4" onclick="confirmarTarefa(check4)"></div>
+                <div id="level4"></div>
+                <div id="contDiv4"></div>
+            </div>
+
+            <div id="div5">
+                <div id="check5" onclick="confirmarTarefa(check5)"></div>
+                <div id="level5"></div>
+                <div id="contDiv5"></div>
+            </div>
+
+            <div id="div6">
+                <div id="check6" onclick="confirmarTarefa(check6)"></div>
+                <div id="level6"></div>
+                <div id="contDiv6"></div>
+            </div>
+
+            <br><br>
+
+            <div id="concluir"></div>
+
+        </div>
+    </div>
+
+    <script>
+        function confirmarTarefa(divCheck)
+        {
+            if(divCheck.innerHTML == 'x')
+                divCheck.innerHTML = 'v'
+            else
+                divCheck.innerHTML = 'x'
+        }
+    </script>
+    
+</body>
+</html>

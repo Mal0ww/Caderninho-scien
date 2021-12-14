@@ -1,0 +1,64 @@
+#menuDireita{
+    width: 0%;
+    height: 625px;
+    float: right;
+    transition: 0.8s;
+}
+
+#trofeu{
+    padding: 35px 70px 0 0;
+    cursor: pointer;
+    float: right;
+}
+
+#conteudoMenuDireita{
+    font-size: 10pt;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    opacity: 0;
+    transition: 0.8s;
+    color: white
+}
+
+#conteudoMenuDireita a{
+    height: 55px;
+    width: 70%;
+    transition: 0.8s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+#pontuacaoDiaria{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#pontuacaoSemanal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ptsDiario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ptsSemanal{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#visualizarRecompensas:hover{
+    border-radius: 20px;
+    background-color: #252627;
+}
