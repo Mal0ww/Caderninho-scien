@@ -20,4 +20,4 @@ foi pensada para atribuição de atividades já concluidas. Como as atividades s
 
 ## Manual do Usuário
 
-![alt text](https://github.com/miHITLER/markdale/blob/main/WhatsApp%20Image%202021-12-13%20at%2021.22.03%20(2).jpeg?raw=true)
+![botões do manual](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Tela%20Principal%20manual.jpg?raw=true)
