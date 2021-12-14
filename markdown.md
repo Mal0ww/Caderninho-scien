@@ -92,3 +92,8 @@ Para Ver a pontuação diária e semanal basta:
 Para Ver a pontuação diária e semanal basta:
 1. Passar o *mouse* para abrir a janela de pontuações.
 2. Usar o botão de recompensas. 
+
+### 4.9 Integrantes.
+|![Integrantes](https://user-images.githubusercontent.com/85904207/145935369-d153d3bf-34b4-491b-9c6b-27b139e37942.png)|
+|:--:|
+| *Integrantes que contribuiram de alguma forma para o adamento do projeto, desde códigos à ideias, apóio moral e piadas para descontração e manutanção da saúde mental* | 
