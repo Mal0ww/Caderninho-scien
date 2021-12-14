@@ -5,15 +5,15 @@
 - Michael Hitler Batista do Nascimento.
 - Victor Matos dos Santos Lima.
 ## 2. Sobre o projeto
-O projeto tem como objetivo, implementar uma agenda inteligente usando diferentes Estruturas de Dados. Ela foi pensada com o propósito de organizar as atividades do dia, sendo possível atribuir niveis dificuldade, onde cada nível tem uma pontuação. Após as atividades serem completadas, elas são marcadas como concluidas, e no final dos sete dias semanais o total de pontos são somados atribuindo uma nota máxima ao usuário.
+O projeto tem como objetivo, implementar uma agenda inteligente usando diferentes Estruturas de Dados. Ela foi pensada com o propósito de organizar as atividades do dia, sendo possível atribuir níveis dificuldade, onde cada nível tem uma pontuação. Após as atividades serem completadas, elas são marcadas como concluídas, e no final dos sete dias semanais o total de pontos são somados atribuindo uma nota máxima ao usuário.
 ## 3. Estruturas escolhidas 
 Sobre as estruturas aplicadas, foram escolhidas a Fila (de com estrutura de aritmética modular), *Stack* e uma lista, pensadas para ser implementada da seguinte forma:
 
 - Lista:
-A lista foi pensada para adicionar as atividades semanais, possibilitando adicionar as atividades em qualquer posição da lista, possobilitando ordenar da melhor forma possível a ordem de execução das atividades. Vale lembrar que cada dia da semana corrresponde a uma lista. 
+A lista foi pensada para adicionar as atividades semanais, possibilitando adicionar as atividades em qualquer posição da lista, possibilitando ordenar da melhor forma possível a ordem de execução das atividades. Vale lembrar que cada dia da semana corresponde a uma lista. 
 
 - Fila:
-foi pensada para atribuição de atividades já concluidas. Como as atividades são adicionadas por ordem de conclusão para terem seus valores somados, cada atividade segue uma ordem de conclusão, sendo as concluidas primeiro, tendo seus valores somados primeiro, obedecendo a propriedade *First In, First Out* (FIFO). 
+foi pensada para atribuição de atividades já concluídas. Como as atividades são adicionadas por ordem de conclusão para terem seus valores somados, cada atividade segue uma ordem de conclusão, sendo as concluídas primeiro, tendo seus valores somados primeiro, obedecendo a propriedade *First In, First Out* (FIFO). 
 
 - *Stack*: 
 É responsável por "empilhar" de forma separada o Título/Horário da atividade e um nível de dificuldade.
@@ -41,7 +41,7 @@ foi pensada para atribuição de atividades já concluidas. Como as atividades s
 
 1. Menu Lateral. <br/>
   1.1 Botão de Home. <br/>
-  1.2 Botão de atividades concluidas.<br/>
+  1.2 Botão de atividades concluídas. <br/>
   1.3 Informações sobre os integrantes. <br/>
   1.4 Informações sobre a aplicação.
   
@@ -56,37 +56,37 @@ foi pensada para atribuição de atividades já concluidas. Como as atividades s
 ### 4.5 Adicionar atividade.
 |![adição de atividades](https://user-images.githubusercontent.com/85904207/145924716-bac5129d-11e5-468d-b7cb-f453d771aaab.png)|
 |:--:| 
-| *Atividades após a adicição* |
+| *Atividades após a adição* |
 
 Para adicionar uma ou mais atividade(s) basta:
 1. Avançar/Retroceder até o dia em que a atividade deve ser adicionada.
 2. Apertar o botão de adicionar atividade.
-3. Adicionar um Titulo/Horário.
+3. Adicionar um Título/Horário.
 4. Especificar a atividade.
 5. Especificar o nível de dificuldade. 
 
 ### 4.6 Concluir atividade.
-|![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20concluidas.jpeg?raw=true)|
+|![atividades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20concluidas.jpeg?raw=true)|
 |:--:|
-| *Tela de atividades concluidas*|
+| *Tela de atividades concluídas*|
 
 Para concluir uma ou mais atividade(s) basta:
 1. Apertar o botão de concluir atividade.
 2. Selecionar as atividades que deseja concluir.
 
-Para ver a(s) atividade(s) concluida(s) basta:
+Para ver a(s) atividade(s) concluída(s) basta:
 1. Passar o *mouse* no menu lateral.
-2. Apertar o botão Atividades concluidas.
+2. Apertar o botão Atividades concluídas.
 
 ### 4.7 Pontuação.
-|![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/pontos.jpeg?raw=true)|
+|![atividades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/pontos.jpeg?raw=true)|
 |:--:|
 
 Para Ver a pontuação diária e semanal basta:
 1. Passar o *mouse* para abrir a janela de pontuações.
 
 ### 4.8 Recompensas.
-|![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Ar%C3%A9a%20de%20recompensas.jpeg?raw=true)|
+|![atividades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Ar%C3%A9a%20de%20recompensas.jpeg?raw=true)|
 |:--:|
 
 Para Ver a pontuação diária e semanal basta:
@@ -96,4 +96,4 @@ Para Ver a pontuação diária e semanal basta:
 ### 4.9 Integrantes.
 |![Integrantes](https://user-images.githubusercontent.com/85904207/145935369-d153d3bf-34b4-491b-9c6b-27b139e37942.png)|
 |:--:|
-| *Integrantes que contribuiram para o andamento do projeto, desde códigos e ideias, até apóio moral e piadas para descontração e manutanção da saúde mental do grupo.* | 
+| *Integrantes que contribuíram para o andamento do projeto, desde códigos e ideias, até apoio moral e piadas para descontração e manutenção da saúde mental do grupo. * |
