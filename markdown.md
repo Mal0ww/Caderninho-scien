@@ -111,4 +111,5 @@ Para ver as informações sobre a aplicação:
 1. Passe o *mouse* para abrir a janela de pontuações.
 2. Aperte o botão de informações. 
 
-
+### 5. Link para os vídeos explicativos.
+https://drive.google.com/drive/folders/1hJMpty2wpI07UYgFADAlVJPW2kWy7nTA
