@@ -31,19 +31,29 @@ foi pensada para atribuição de atividades já concluidas. Como as atividades s
 3. Avançar/Retroceder dias da semana.
 4. Campo para especificar atividades.
 5. Botão para adicionar atividades. 
-6. Aba de pontuações e recompensas. 
+6. Janela de pontuações e recompensas. 
 7. Botão para conclusão de atividades.
 
 ### 4.3 Menu lateral.
 |![menu lateral](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20para%20concluir.jpg?raw=true)|
 |:--:| 
+| *A direita o menu lateral* |
+
 1. Menu Lateral. <br/>
   1.1 Botão de Home. <br/>
-  1.2 Botão de atividades concluidas.<br/>\
+  1.2 Botão de atividades concluidas.<br/>
   1.3 Informações sobre os integrantes. <br/>
   1.4 Informações sobre a aplicação.
+  
+### 4.4 Janela de pontuação.
+|![Botão de recompensas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Aba%20de%20pontua%C3%A7%C3%B5es.jpg?raw=true)|
+|:--:| 
+| *A esquerda a janela de pontuação* |
 
-### 4.4 Adicionar atividade.
+5. Janela de pontuações e recompensas. <br/>
+  5.1 Botão de Recompensas.
+
+### 4.5 Adicionar atividade.
 |![adição de atividades](https://user-images.githubusercontent.com/85904207/145924716-bac5129d-11e5-468d-b7cb-f453d771aaab.png)|
 |:--:| 
 | *Atividades após a adicição* |
@@ -55,13 +65,30 @@ Para adicionar uma ou mais atividade(s) basta:
 4. Especificar a atividade.
 5. Especificar o nível de dificuldade. 
 
-### 4.5 Concluir atividade.
+### 4.6 Concluir atividade.
 |![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20concluidas.jpeg?raw=true)|
 |:--:|
+| *Tela de atividades concluidas*|
+
 Para concluir uma ou mais atividade(s) basta:
 1. Apertar o botão de concluir atividade.
 2. Selecionar as atividades que deseja concluir.
 
 Para ver a(s) atividade(s) basta:
-1. Usar o menu lateral.
+1. Passar o *mouse* no menu lateral.
 2. Apertar o botão Atividades concluidas.
+
+### 4.7 Pontuação.
+|![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Aba%20de%20pontua%C3%A7%C3%B5es.jpeg?raw=true)|
+|:--:|
+
+Para Ver a pontuação diária e semanal basta:
+1. Passar o *mouse* para abrir a janela de pontuações.
+
+### 4.8 Recompensas.
+|![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Ar%C3%A9a%20de%20recompensas.jpeg?raw=true)|
+|:--:|
+
+Para Ver a pontuação diária e semanal basta:
+1. Passar o *mouse* para abrir a janela de pontuações.
+2. Usar o botão de recompensas. 
