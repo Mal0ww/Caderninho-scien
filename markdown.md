@@ -96,4 +96,4 @@ Para Ver a pontuação diária e semanal basta:
 ### 4.9 Integrantes.
 |![Integrantes](https://user-images.githubusercontent.com/85904207/145935369-d153d3bf-34b4-491b-9c6b-27b139e37942.png)|
 |:--:|
-| *Integrantes que contribuíram para o andamento do projeto, desde códigos e ideias, até apoio moral e piadas para descontração e manutenção da saúde mental do grupo. * |
+| *Integrantes que contribuíram para o andamento do projeto, desde códigos e ideias, até apoio moral e piadas para descontração e manutenção da saúde mental do grupo.* |
