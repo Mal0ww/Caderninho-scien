@@ -10,7 +10,7 @@ O projeto tem como objetivo, implementar uma agenda inteligente usando diferente
 Sobre as estruturas aplicadas, foram escolhidas a Fila (de com estrutura de aritmética modular), *Stack* e uma lista, pensadas para ser implementada da seguinte forma:
 
 - Lista:
-A lista foi pensada para adicionar as tarefas semanais, possibilitando adicionar as atividades em qualquer posição e ordenar da melhor forma sequencial possível. 
+A lista foi pensada para adicionar as atividades semanais, possibilitando adicionar as atividades em qualquer posição da lista, possobilitando ordenar da melhor forma possível a ordem de execução das atividades. Vale lembrar que cada dia da semana corrresponde a uma lista. 
 
 - Fila:
 foi pensada para atribuição de atividades já concluidas. Como as atividades são adicionadas por ordem de conclusão para terem seus valores somados, cada atividade segue uma ordem de conclusão, sendo as concluidas primeiro, tendo seus valores somados primeiro, obedecendo a propriedade *First In, First Out* (FIFO). 
@@ -20,26 +20,42 @@ foi pensada para atribuição de atividades já concluidas. Como as atividades s
 
 ## 4. Manual do Usuário
 ### 4.1 Tela inicial
-![Home](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Tela%20Principal.jpeg?raw=true)
+|![Home](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Tela%20Principal.jpeg?raw=true)|
+|:--:| 
 
 ### 4.2 Botões
-![botões do manual](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Tela%20Principal%20manual.jpg?raw=true)
+|![botões do manual](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Tela%20Principal%20manual.jpg?raw=true)|
+|:--:| 
 
 1. Menu Lateral.
 3. Avançar/Retroceder dias da semana.
-4. Campo para especificar tarefas.
-5. Botão para adicionar tarefas. 
+4. Campo para especificar atividades.
+5. Botão para adicionar atividades. 
 6. Aba de pontuações e recompensas. 
-7. Botão para conclusão de tarefas.
+7. Botão para conclusão de atividades.
 
 ### 4.3 Menu lateral.
-![menu lateral](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20para%20concluir.jpg?raw=true)
+|![menu lateral](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20para%20concluir.jpg?raw=true)|
+|:--:| 
 1. Menu Lateral. <br/>
   1.1 Botão de Home. <br/>
-  1.2 Botão de atividades concluidas.<br/>
+  1.2 Botão de atividades concluidas.<br/>\
   1.3 Informações sobre os integrantes. <br/>
   1.4 Informações sobre a aplicação.
 
-### 4.4 Adicionar tarefas.
-![adição de tarefas](https://user-images.githubusercontent.com/85904207/145924716-bac5129d-11e5-468d-b7cb-f453d771aaab.png)
+### 4.4 Adicionar atividade.
+|![adição de atividades](https://user-images.githubusercontent.com/85904207/145924716-bac5129d-11e5-468d-b7cb-f453d771aaab.png)|
+|:--:| 
+| *Atividades após a adicição* |
+
+Para adicionar uma ou mais atividade(s) basta:
+1. Avançar/Retroceder até o dia em que a atividade deve ser adicionada.
+2. Apertar o botão de adicionar atividade.
+3. Adicionar um Titulo/Horário.
+4. Especificar a atividade.
+5. Especificar o nível de dificuldade. 
+
+### 4.5 Concluir atividade.
+|![atvididades concluidas](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Atividades%20concluidas.jpeg?raw=true)|
+|:--:|
 
