@@ -22,7 +22,7 @@ foi pensada para atribuição de atividades já concluídas. Como as atividades 
 - *Stack*: 
 É responsável por "empilhar" de forma separada o Título/Horário da atividade e um nível de dificuldade.
 
-## 4. Manual do Usuário
+## 4. Manual do Usuário 
 ### 4.1 Tela inicial
 |![Home](https://github.com/miHITLER/Projeto-Estrutura-de-Dados---Caderninho/blob/main/prints/Tela%20Principal.jpeg?raw=true)|
 |:--:| 
