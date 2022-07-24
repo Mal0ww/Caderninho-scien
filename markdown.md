@@ -5,9 +5,12 @@
 - Michael Hitler Batista do Nascimento.
 - Victor Matos dos Santos Lima.
 ## 2. Sobre o projeto
+|![info](https://github.com/miHITLER/Caderninho-scien/blob/main/prints/tela%20de%20info.jpeg?raw=true)|
+|:--:|
+| *Tela de informações* |
 O projeto tem como objetivo, implementar uma agenda inteligente usando diferentes Estruturas de Dados. Ela foi pensada com o propósito de organizar as atividades do dia, sendo possível atribuir níveis dificuldade, onde cada nível tem uma pontuação. Após as atividades serem completadas, elas são marcadas como concluídas, e no final dos sete dias semanais o total de pontos são somados atribuindo uma nota máxima ao usuário.
 ## 3. Estruturas escolhidas 
-Sobre as estruturas aplicadas, foram escolhidas a Fila (de com estrutura de aritmética modular), *Stack* e uma lista, pensadas para ser implementada da seguinte forma:
+Sobre as estruturas aplicadas, foram escolhidas a Fila (com estrutura de aritmética modular), *Stack* e uma lista, pensadas para ser implementada da seguinte forma:
 
 - Lista:
 A lista foi pensada para adicionar as atividades semanais, possibilitando adicionar as atividades em qualquer posição da lista, possibilitando ordenar da melhor forma possível a ordem de execução das atividades. Vale lembrar que cada dia da semana corresponde a uma lista. 
@@ -101,11 +104,6 @@ Para ver a pontuação diária e semanal:
 Para ver o nome dos integrantes:
 1. Passe o *mouse* para abrir a janela de pontuações.
 2. Aperte o botão de recompensas. 
-
-### 4.10 Informações sobre a aplicação.
-|![info](https://github.com/miHITLER/Caderninho-scien/blob/main/prints/tela%20de%20info.jpeg?raw=true)|
-|:--:|
-| *Tela de informações* |
 
 Para ver as informações sobre a aplicação:
 1. Passe o *mouse* para abrir a janela de pontuações.
